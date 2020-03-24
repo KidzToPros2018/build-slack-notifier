@@ -1,0 +1,19 @@
+{
+  "name": "build-slack-notifier",
+  "version": "1.0.0",
+  "description": "Creates data for slack hook used to notify after deployment succeeded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidzToPros2018/build-slack-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KidzToPros2018/build-slack-notifier/issues"
+  },
+  "homepage": "https://github.com/KidzToPros2018/build-slack-notifier#readme"
+}
